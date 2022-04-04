@@ -27,8 +27,10 @@ I love the whole process of developing innovative and user-friendly websites. I 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=ED8B00)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-MicrosoftSQLServer-informational?style=flat&logo=MicrosoftSQLServer&color=CC2927)
-![](https://img.shields.io/badge/Code-Maven-informational?style=flat&logo=Maven&color=C71A36)
+
+</br>
+
+![](https://img.shields.io/badge/Database-MicrosoftSQLServer-informational?style=flat&logo=MicrosoftSQLServer&color=CC2927)
 
 </br>
 
@@ -37,6 +39,7 @@ I love the whole process of developing innovative and user-friendly websites. I 
 
 </br>
 
+![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=Maven&color=C71A36)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira&color=0A0FFF)
