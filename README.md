@@ -10,7 +10,7 @@ I love the whole process of developing innovative and user-friendly websites. I 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.facebook.com/chibao.ngo.7161/"><img align="left" src="https://github.com/baolucky1901/baolucky1901/main/images/Facebook.svg" alt="baolucky | Facebook" width="21px"/></a>
+<a href="https://www.facebook.com/chibao.ngo.7161/"><img align="left" src="https://github.com/baolucky1901/baolucky1901/blob/main/images/Facebook.svg" alt="baolucky | Facebook" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
