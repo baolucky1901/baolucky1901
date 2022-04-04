@@ -1,5 +1,5 @@
 <h3 align="center">
-Hi there, I'm Ngo Chi Bao</a> 👋
+Hi there, I'm Ngo Chi Bao (Lucky)</a> 👋
 </h3>
 
 <h2 align="center">
@@ -10,7 +10,7 @@ I love the whole process of developing innovative and user-friendly websites. I 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.facebook.com/chibao.ngo.7161/"><img align="left" src="https://github.com/baolucky1901/baolucky1901/tree/main/images/Facebook.png" alt="baolucky | Facebook" width="21px"/></a>
+<a href="https://www.facebook.com/chibao.ngo.7161/"><img align="left" src="https://github.com/baolucky1901/baolucky1901/main/images/Facebook.png" alt="baolucky | Facebook" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -45,6 +45,6 @@ I love the whole process of developing innovative and user-friendly websites. I 
 
 ## 📈 GitHub Stats 
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=baolucky1901)](https://github.com/baolucky1901)
+[![Lucky's github stats](https://github-readme-stats.vercel.app/api?username=baolucky1901)](https://github.com/baolucky1901)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+
