@@ -48,11 +48,26 @@ I love the whole process of developing innovative and user-friendly websites. I 
 
 ## 📈 GitHub Stats 
 
-[![Lucky's github stats](https://github-readme-stats.vercel.app/api?username=baolucky1901)](https://github.com/baolucky190·
+[![Lucky's github stats](https://github-readme-stats.vercel.app/api?username=baolucky1901)](https://github.com/baolucky1901)
 
 ## 📝 Certifications 
 
-### 1. Software Development Lifecycle Specialization
+### 1. Academic Skills for University Success
+
+#### Certification
+
+😄 [Academic Skills for University Success](https://www.coursera.org/account/accomplishments/specialization/certificate/9KNTSD6SGZAB)
+
+### 2. CertNexus Certified Ethical Emerging Technologist
+
+#### Certification
+
+
+
+### 3. Software Development Lifecycle Specialization
+
+#### Certification
+
 🤗 [Software Development Lifecycle](https://www.coursera.org/account/accomplishments/specialization/certificate/JNNS4LDQKL3R)
 
 #### I HAVE LEARNED
@@ -66,6 +81,8 @@ I love the whole process of developing innovative and user-friendly websites. I 
  - Kanban
  - Agile Software Development
  - Software Development Process
+
+
 
 
 
