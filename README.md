@@ -14,7 +14,7 @@ I love the whole process of developing innovative and user-friendly websites. I 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently learning at
+## 🏫 I'm currently learning at
 
 - FPT University
 
