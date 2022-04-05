@@ -50,37 +50,6 @@ I love the whole process of developing innovative and user-friendly websites. I 
 
 [![Lucky's github stats](https://github-readme-stats.vercel.app/api?username=baolucky1901)](https://github.com/baolucky1901)
 
-## 📝 Certifications 
-
-### 1. Academic Skills for University Success
-
-#### Certification
-
-😄 [Academic Skills for University Success](https://www.coursera.org/account/accomplishments/specialization/certificate/9KNTSD6SGZAB)
-
-### 2. CertNexus Certified Ethical Emerging Technologist
-
-#### Certification
-
-
-
-### 3. Software Development Lifecycle Specialization
-
-#### Certification
-
-🤗 [Software Development Lifecycle](https://www.coursera.org/account/accomplishments/specialization/certificate/JNNS4LDQKL3R)
-
-#### I HAVE LEARNED
-
- - Critically analyze software engineering development processes from our four selected development philosophies (traditional, secure, agile, and lean).
- - Discuss the workings of exemplary processes within each of the given philosophies.
- - Describe the trade-offs among the philosophies with respect to environmental, organizational, and product constraints.
- - Perform activities within each of the four aforementioned philosophies and explain how they satisfy the principles of the given philosophy.
-#### SKILLS I HAVE GAINED
- - Lean Software Development
- - Kanban
- - Agile Software Development
- - Software Development Process
 
 
 
