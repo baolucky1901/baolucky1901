@@ -18,7 +18,7 @@ I love the whole process of developing innovative and user-friendly websites. I 
 
 - FPT University
 
-## 🌱 I'm currently learning skill
+## 🌱 I'm processing learning skill
 
 - Front-end: ReactJS and ITBA 
 
