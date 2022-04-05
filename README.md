@@ -3,7 +3,7 @@ Hi there, I'm Ngo Chi Bao (Lucky)</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Developer 💻, short-term: Front-end, and long-term: ITBA 💪!
+I'm a Developer 💻, short-term: Front-end, long-term: ITBA 💪!
 </h2> 
 
 I love the whole process of developing innovative and user-friendly websites. I love learning new technologies and spending time meeting new people. Find a way to connect the "language" of users and developers more easily 👌
